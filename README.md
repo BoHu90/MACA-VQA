@@ -55,8 +55,8 @@ python -u test_baseline_modular.py
 
 ### Acknowledgement
 The basic code is partially from the below repos.
-- [ModularVQA]([https://github.com/sunwei925/SimpleVQA](https://github.com/winwinwenwen77/ModularBVQA))
-- [Re-IQA]([https://github.com/VQAssessment/DOVER](https://github.com/avinabsaha/ReIQA)
+- [ModularVQA](https://github.com/winwinwenwen77/ModularBVQA)
+- [Re-IQA](https://github.com/avinabsaha/ReIQA)
 - [VideoMae V2](https://github.com/OpenGVLab/VideoMAEv2)
 
 
